@@ -1,6 +1,7 @@
 ## Hello!
-I'm a research fellow at the University of Aberdeen Centre for Health Data Science.<br>
+I'm a research fellow at the University of Aberdeen Centre for Health Data Science.<br>  
 
+I'm a member of the Grampian COVID Surveillance team, a collaboration of NHS Grampian and the three Local Authorities in Grampian. I've done a [series of analyses of vulnerable communties](https://abdnchds.github.io/Grampian-Vulnerability-Resources/) to support the public health work in Grampian.
 
 ### NHS Networked Data Lab
 
@@ -8,8 +9,6 @@ I'm the Analytic Lead for [a new collaboration between five NHS centres](https:/
 
 ### Coronavirus
 I'm leading a Chief Scientist's Office project to [protect patients with serious existing medical conditions](https://www.cso.scot.nhs.uk/rapid-research-in-covid-19-programme/abncovidportfolio/) who have been asked by the government to self-isolate to protect their health. We are mapping these patients' pre-COVID care pathways and advising the NHS on how to protect them as they receive care during the pandemic.
-
-I'm a member of the Grampian COVID Surveillance team, a collaboration of NHS Grampian and the three Local Authorities in Grampian. I've done a [series of analyses of vulnerable communties](https://abdnchds.github.io/Grampian-Vulnerability-Resources/) to support the public health work in Grampian.
 
 ### Robust & Reproducible use of High-Security Patient Data
 At the end of 2020, I will start a Wellcome Trust Open Research project to [design reproducible and transparent methods for research using patient data](https://wellcome.ac.uk/grant-funding/people-and-projects/grants-awarded/open-reproducible-analysis-and-reporting-data). The goal of the project is to automate the capture and reporting of complex data provenance without compromising patient data privacy.
