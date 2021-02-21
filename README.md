@@ -1,5 +1,5 @@
 ## Hello!
-I'm a research fellow at the University of Aberdeen Centre for Health Data Science.<br>  
+I'm a research scientist at the University of Aberdeen Centre for Health Data Science.<br>  
 
 I'm a member of the Grampian COVID Surveillance team, a collaboration of NHS Grampian and the three Local Authorities in Grampian. I've done a [series of analyses of vulnerable communties](https://abdnchds.github.io/Grampian-Vulnerability-Resources/) to support the public health work in Grampian.
 
