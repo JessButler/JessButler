@@ -11,7 +11,7 @@ I'm the Analytic Lead for [a new collaboration between five NHS centres](https:/
 I'm leading a Chief Scientist's Office project to [protect patients with serious existing medical conditions](https://www.cso.scot.nhs.uk/rapid-research-in-covid-19-programme/abncovidportfolio/) who have been asked by the government to self-isolate to protect their health. We are mapping these patients' pre-COVID care pathways and advising the NHS on how to protect them as they receive care during the pandemic.
 
 ### Robust & Reproducible use of High-Security Patient Data
-At the end of 2020, I will start a Wellcome Trust Open Research project to [design reproducible and transparent methods for research using patient data](https://wellcome.ac.uk/grant-funding/people-and-projects/grants-awarded/open-reproducible-analysis-and-reporting-data). The goal of the project is to automate the capture and reporting of complex data provenance without compromising patient data privacy.
+In 2021, I will start a Wellcome Trust Open Research project to [design reproducible and transparent methods for research using patient data](https://wellcome.ac.uk/grant-funding/people-and-projects/grants-awarded/open-reproducible-analysis-and-reporting-data). The goal of the project is to automate the capture and reporting of complex data provenance without compromising patient data privacy.
 
 ### Research Culture
 I'm an advocate of rigorous study design and transparent methods, and for improving research culture so scientists can work to higher standards. 
